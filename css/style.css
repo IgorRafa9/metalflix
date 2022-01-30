@@ -1,0 +1,15 @@
+.body{
+  background: black;
+}
+
+div a {
+  color: red;
+}
+div a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+div ul li a{
+  color: white
+}
